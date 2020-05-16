@@ -1,4 +1,4 @@
-package pl.sda.fileconverter;
+package main.java.pl.sda.fileconverter;
 
 /**
  * @author  Marek Hetman
